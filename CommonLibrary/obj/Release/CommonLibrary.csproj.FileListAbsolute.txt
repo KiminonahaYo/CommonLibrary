@@ -8,3 +8,9 @@ P:\As_Drive\Data\プログラム\開発\ライブラリ\CommonLibrary\CommonLibr
 P:\As_Drive\Data\プログラム\開発\ライブラリ\CommonLibrary\CommonLibrary\bin\Release\CommonLibrary.dll
 P:\As_Drive\Data\プログラム\開発\ライブラリ\CommonLibrary\CommonLibrary\bin\Release\CommonLibrary.pdb
 P:\As_Drive\Data\プログラム\開発\ライブラリ\CommonLibrary\CommonLibrary\obj\Release\CommonLibrary.csprojAssemblyReference.cache
+P:\As_Drive\Data\プログラム\Github\C#\ライブラリ\CommonLibrary\CommonLibrary\obj\Release\CommonLibrary.csprojAssemblyReference.cache
+P:\As_Drive\Data\プログラム\Github\C#\ライブラリ\CommonLibrary\CommonLibrary\obj\Release\CommonLibrary.csproj.CoreCompileInputs.cache
+P:\As_Drive\Data\プログラム\Github\C#\ライブラリ\CommonLibrary\CommonLibrary\obj\Release\CommonLibrary.dll
+P:\As_Drive\Data\プログラム\Github\C#\ライブラリ\CommonLibrary\CommonLibrary\obj\Release\CommonLibrary.pdb
+P:\As_Drive\Data\プログラム\Github\C#\ライブラリ\CommonLibrary\CommonLibrary\bin\Release\CommonLibrary.dll
+P:\As_Drive\Data\プログラム\Github\C#\ライブラリ\CommonLibrary\CommonLibrary\bin\Release\CommonLibrary.pdb
